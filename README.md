@@ -20,28 +20,6 @@ This is a fully functional **Scientific Calculator** built with **React**, **HTM
 
 Check out the live demo of the project:
 
-[Live Scientific Calculator](https://your-live-demo-link.com)
+[Live Scientific Calculator](https://scientific-calculator-ochre.vercel.app/)
+[Github Scientific Calculator](https://github.com/saagor16/scientific-calculator)
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd scientific-calculator
-Install the dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open http://localhost:3000 in your browser to view the app.
