@@ -18,8 +18,11 @@ This is a fully functional **Scientific Calculator** built with **React**, **HTM
 
 ## Live Demo
 
-Check out the live demo of the project:
+You can explore the live version of this project here:
 
-[Live Scientific Calculator](https://scientific-calculator-ochre.vercel.app/)<br/>
-[Github Scientific Calculator](https://github.com/saagor16/scientific-calculator)
+- [Live Scientific Calculator](https://scientific-calculator-ochre.vercel.app/)
+
+You can also check out the source code on GitHub:
+
+- [GitHub Repository](https://github.com/saagor16/scientific-calculator)
 
