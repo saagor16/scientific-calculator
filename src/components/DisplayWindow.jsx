@@ -1,11 +1,12 @@
 
-const DisplayWindow = () => {
+// eslint-disable-next-line react/prop-types
+const DisplayWindow = ({expression,result}) => {
     return (
         <div className="displayWindow">
             <p className="expression">
-                180+15/20
+                {expression}
             </p>
-            <p className="result">RESULT</p>
+            <p className="result">{result}</p>
         </div>
     );
 };

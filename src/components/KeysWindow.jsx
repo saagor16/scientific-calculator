@@ -1,5 +1,5 @@
+/* eslint-disable react/prop-types */
 
-// eslint-disable-next-line react/prop-types
 const KeysWindow = ({ handleButton }) => {
   const sciKeys = ["sin", "cos", "ln", "log", "tan", "π", "e", "^", "!", "√"];
 
