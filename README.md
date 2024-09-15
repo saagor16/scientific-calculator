@@ -20,6 +20,6 @@ This is a fully functional **Scientific Calculator** built with **React**, **HTM
 
 Check out the live demo of the project:
 
-[Live Scientific Calculator](https://scientific-calculator-ochre.vercel.app/)
+[Live Scientific Calculator](https://scientific-calculator-ochre.vercel.app/)<br/>
 [Github Scientific Calculator](https://github.com/saagor16/scientific-calculator)
 
